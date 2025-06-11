@@ -1,0 +1,5 @@
+fastapi
+sqlmodel
+alembic
+python-dotenv
+uvicorn[standard]
